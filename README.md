@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of cadiducho/bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/cadiducho/bbcode) or the [upstream repository](https://github.com/EdorasMinecraft/BBcode).
 
-**0** versions archived · Latest: [`1.2`](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.2) · License: `MIT` · Flarum: `^v1.8.0`
+**6** versions archived · Latest: [`1.2`](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.2) · License: `MIT` · Flarum: `^v1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2021-01-08 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.0) |
+| `1.0.1` | 2021-01-24 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.0.1) |
+| `1.0.2` | 2021-03-24 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.0.2) |
+| `1.0.3` | 2021-06-16 | `^1.0.0` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.0.3) |
+| `1.1` | 2022-01-21 | `^1.0` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.1) |
+| `1.2` | 2025-03-08 | `^v1.8.0` | [Browse](https://github.com/flarchive/cadiducho-bbcode/tree/archive/v1.2) |
 
 Catalog entry: [packages/cadiducho-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/cadiducho-bbcode.json)
 
